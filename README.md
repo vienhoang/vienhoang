@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi! I'm Vien 
 
-<!--
-**vienhoang/vienhoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm studying to become a network engineer at JENSEN YH in Gothenburg, focusing on networking, security and infrastructure. I enjoy building small useful tools and experimenting with AI to accelerate learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Skills
+- Networking — routing, switching, VLAN, firewalling
+- Linux — Ubuntu, CLI workflows
+- Security — MITM, ARP/DNS spoofing, IDS/IPS basics
+- Automation & DevOps — Docker, Terraform, Bash, Python
+- Web — HTML, CSS
+- AI & Generative Tools — Stable Diffusion, ComfyUI
+- Creative Tools — DaVinci Resolve, Photoshop, Lightroom
+- AI-assisted Development & Learning — ChatGPT, Claude, Copilot, Gemini, DeepSeek 
+
+## 📂 Projects
+- [Network & Cybersecurity Abbreviations](https://netabbr.com/) - A small dictionary with network and cybersecurity abbreviations, built to help students and technicians quickly look up common terms.
+
+
+## 🧠 Current Focus
+- Improving Python for automation and tooling
+- Deepening my understanding of network and cybersecurity
+- Exploring cloud infrastructure and IaC workflows
+
+## 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/vien-hoang-5077bb96/)
