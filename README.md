@@ -17,6 +17,8 @@ I'm studying to become a network engineer at JENSEN YH in Gothenburg, focusing o
 ## 📂 Projects
 - [Network & Cybersecurity Abbreviations](https://netabbr.com/) - A small dictionary with network and cybersecurity abbreviations and terms, built to help students and technicians quickly look up common terms.
 
+- [Bitcoin Value Projector](https://bitcoin-value-projector.pages.dev/) - A free and privacy-focused tool that lets you interactively explore potential future bitcoin price scenarios.
+
 
 ## 🧠 Current Focus
 - Improving Python for automation and tooling
