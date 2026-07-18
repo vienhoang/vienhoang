@@ -19,10 +19,12 @@ I'm studying to become a network engineer at JENSEN YH in Gothenburg, focusing o
 
 - [Bitcoin Value Projector](https://bitcoin-value-projector.pages.dev/) - A free and privacy-focused tool that lets you interactively explore potential future bitcoin price scenarios.
 
+- [Air Fryer Calculator](https://www.airfryercalculator.net/) - Air Fryer Calculator is a simple, fast, and precise tool that converts any oven recipe into optimized air‑fryer time and temperature for consistently crisp, perfectly cooked results.
+
 
 ## 🧠 Current Focus
-- Improving Python for automation and tooling
 - Deepening my understanding of network and cybersecurity
+- Building useful web tools
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/vien-hoang-5077bb96/)
