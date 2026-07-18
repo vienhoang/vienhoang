@@ -21,6 +21,8 @@ I'm studying to become a network engineer at JENSEN YH in Gothenburg, focusing o
 
 - [Air Fryer Calculator](https://www.airfryercalculator.net/) - Air Fryer Calculator is a simple, fast, and precise tool that converts any oven recipe into optimized air‑fryer time and temperature for consistently crisp, perfectly cooked results.
 
+- [Timmis](https://timmis.pages.dev/) - Timmis is a Swedish lightweight time‑tracking tool where hourly workers can quickly log their worked hours, hourly rate, and earnings in a clean, simple interface.
+
 
 ## 🧠 Current Focus
 - Deepening my understanding of network and cybersecurity
